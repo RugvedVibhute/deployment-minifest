@@ -1,0 +1,17 @@
+- op: replace
+
+
+  path: /metadata/name
+
+
+  value: "ren-application"
+
+ 
+
+- op: replace
+
+
+  path: /metadata/namespace
+
+
+  value: "ren-application-sit"
